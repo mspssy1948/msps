@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>07.Oktober - Amazon Produkte</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .contact-info {
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            width: 50%;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Willkommen bei 07.Oktober</h1>
+    <p>Entdecken Sie die besten Produkte von Amazon!</p>
+    <img src="https://www2.0zz0.com/2025/03/31/06/607762553.jpg" alt="Al-Aqsa Mosque" width="600">
+    
+    <div class="contact-info">
+        <h2>Kontakt</h2>
+        <p>Telefon: 017670441042</p>
+        <p>Email: <a href="mailto:mohamad.salaymeh98@gmail.com">mohamad.salaymeh98@gmail.com</a></p>
+    </div>
+</body>
+</html>
